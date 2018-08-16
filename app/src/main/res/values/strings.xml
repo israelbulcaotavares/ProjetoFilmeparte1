@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProjetoFilmesFamososparte1</string>
+
+    <string name="content_description_movie_poster">movie_poster</string>
+    <string name="movie_list_not_connected">Sem conexão</string>
+    <string name="movie_list_no_results">Nenhum resultado</string>
+
+    <string name="menu_filter_popular">Mais populares</string>
+    <string name="menu_filter_top_rated">Mais Votados</string>
+    <string name="search">Procurar</string>
+    <string name="menu_filter_filmes_cinema">Nos cinemas</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
